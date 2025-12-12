@@ -1,0 +1,6 @@
+Las listas son:
+  ordenadas
+  mutables, pueden alterarse durante la ejecución
+  pueden contener elementos de distintos tipos, incluyendo listas
+  
+  

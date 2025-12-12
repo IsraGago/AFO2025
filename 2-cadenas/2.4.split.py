@@ -1,0 +1,5 @@
+telefono=input("Introduce un número de telefoto (formato +34-622095700-21): ")
+partes = telefono.split("-")
+print("prefijo: "+partes[0][1:])
+print("teléfono: "+partes[1])
+print("extensión: "+partes[3])
